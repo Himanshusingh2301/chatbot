@@ -1,0 +1,82 @@
+[
+  {
+    "title": "PM-Kisan Yojana",
+    "tags": ["kisan", "farmer", "agriculture", "pmkisan"],
+    "description": "PM-Kisan provides ₹6000 per year in 3 installments to eligible farmers. Eligibility: Farmers owning up to 2 hectares of cultivable land are eligible. Government employees, taxpayers, and professionals are excluded. More Info: [PM-Kisan Website](https://pmkisan.gov.in/)"
+  },
+  {
+    "title": "प्रधानमंत्री किसान योजना",
+    "tags": ["किसान", "कृषि", "pmkisan"],
+    "description": "पीएम-किसान योजना के तहत पात्र किसानों को प्रति वर्ष ₹6000 की राशि तीन किस्तों में प्रदान की जाती है। पात्रता: 2 हेक्टेयर तक की कृषि भूमि वाले किसान पात्र हैं। सरकारी कर्मचारी, करदाता और पेशेवर अयोग्य हैं। अधिक जानकारी: [PM-Kisan Website](https://pmkisan.gov.in/)"
+  },
+  {
+    "title": "प्रधानमंत्री किसान योजना (मराठी)",
+    "tags": ["शेतकरी", "कृषी", "pmkisan"],
+    "description": "पीएम-किसान योजना अंतर्गत पात्र शेतकऱ्यांना दरवर्षी ₹6000 तीन हप्त्यांमध्ये दिले जाते. पात्रता: ज्यांच्याकडे २ हेक्टरपर्यंतची शेती आहे ते पात्र आहेत. सरकारी कर्मचारी, करदाते आणि व्यावसायिक अपात्र आहेत. अधिक माहिती: [PM-Kisan Website](https://pmkisan.gov.in/)"
+  },
+  {
+    "title": "ప్రధాన మంత్రి కిసాన్ యోజన (తెలుగు)",
+    "tags": ["రైతు", "వ్యవసాయం", "pmkisan"],
+    "description": "పీఎం-కిసాన్ పథకం ప్రకారం అర్హులైన రైతులకు సంవత్సరానికి ₹6000 మూడుసార్లు చెల్లించబడుతుంది. అర్హత: 2 హెక్టార్లలోపు వ్యవసాయ భూమి కలిగి ఉన్న రైతులు అర్హులు. ప్రభుత్వ ఉద్యోగులు, పన్ను చెల్లింపుదారులు అర్హులు కాదు. మరింత సమాచారం: [PM-Kisan Website](https://pmkisan.gov.in/)"
+  },
+  {
+    "title": "Ayushman Bharat",
+    "tags": ["health", "insurance", "hospital", "treatment"],
+    "description": "Ayushman Bharat offers free health insurance up to ₹5 lakhs per family per year. Eligibility: Poor and vulnerable families as per SECC 2011 data. No enrollment required for eligible households. More Info: [Ayushman Bharat Website](https://pmjay.gov.in/)"
+  },
+  {
+    "title": "आयुष्मान भारत",
+    "tags": ["स्वास्थ्य", "बीमा", "अस्पताल", "उपचार"],
+    "description": "आयुष्मान भारत योजना ₹5 लाख तक की मुफ्त स्वास्थ्य बीमा सुविधा प्रदान करती है। पात्रता: SECC 2011 के अनुसार चिन्हित गरीब और कमजोर परिवार पात्र हैं। पात्र परिवारों के लिए नामांकन की आवश्यकता नहीं है। अधिक जानकारी: [Ayushman Bharat Website](https://pmjay.gov.in/)"
+  },
+  {
+    "title": "आयुष्मान भारत (मराठी)",
+    "tags": ["आरोग्य", "विमा", "रुग्णालय", "उपचार"],
+    "description": "आयुष्मान भारत योजना प्रत्येक कुटुंबाला दरवर्षी ₹5 लाखांपर्यंत मोफत आरोग्य विमा सेवा देते. पात्रता: SECC 2011 नुसार ओळखलेले गरीब आणि दुर्बल कुटुंब पात्र आहेत. पात्र कुटुंबांना नोंदणीची गरज नाही. अधिक माहिती: [Ayushman Bharat Website](https://pmjay.gov.in/)"
+  },
+  {
+    "title": "ఆయుష్మాన్ భారత్ (తెలుగు)",
+    "tags": ["ఆరోగ్య", "బీమా", "హాస్పిటల్", "చికిత్స"],
+    "description": "ఆయుష్మాన్ భారత్ పథకం ద్వారా కుటుంబానికి ₹5 లక్షల వరకు ఉచిత ఆరోగ్య బీమా కల్పించబడుతుంది. అర్హత: SECC 2011 ప్రకారం గుర్తించబడిన పేద మరియు బలహీన కుటుంబాలు అర్హులు. మరింత సమాచారం: [Ayushman Bharat Website](https://pmjay.gov.in/)"
+  },
+  {
+    "title": "PM Awas Yojana",
+    "tags": ["house", "home", "housing", "rural","awas"],
+    "description": "PMAY offers financial assistance for affordable housing for the urban and rural poor. Eligibility: Urban: EWS/LIG/MIG families with no pucca house. Rural: Families without proper housing, as per SECC. More Info: [PMAY Website](https://pmaymis.gov.in/)"
+  },
+  {
+    "title": "प्रधानमंत्री आवास योजना",
+    "tags": ["घर", "आवास", "ग्रामीण", "शहरी"],
+    "description": "पीएमएवाई योजना शहरी और ग्रामीण गरीबों को सस्ती आवास के लिए वित्तीय सहायता प्रदान करती है। पात्रता: शहरी: EWS/LIG/MIG जिनके पास पक्का घर नहीं है। ग्रामीण: SECC अनुसार जिनके पास उपयुक्त आवास नहीं है। अधिक जानकारी: [PMAY Website](https://pmaymis.gov.in/)"
+  },
+  {
+    "title": "प्रधानमंत्री आवास योजना (मराठी)",
+    "tags": ["घर", "निवास", "ग्रामीण", "शहरी"],
+    "description": "पंतप्रधान आवास योजना शहरी आणि ग्रामीण गरिबांसाठी परवडणारे घर मिळवण्यासाठी आर्थिक मदत करते. पात्रता: शहरी: ज्यांच्याकडे पक्के घर नाही अशा EWS/LIG/MIG कुटुंबांसाठी. ग्रामीण: SECC नुसार घर नसलेले कुटुंब. अधिक माहिती: [PMAY Website](https://pmaymis.gov.in/)"
+  },
+  {
+    "title": "ప్రధాన మంత్రి ఆవాస్ యోజన (తెలుగు)",
+    "tags": ["ఇల్లు", "హౌసింగ్", "గ్రామీణ", "నగర"],
+    "description": "పీఎం అయ్యస్ పథకం గ్రామీణ మరియు నగర ప్రాంతాలలోని పేదలకు ఇళ్లు నిర్మించడానికి ఆర్థిక సహాయాన్ని అందిస్తుంది. అర్హత: నగర: EWS/LIG/MIG కు చెందినవారికి పక్కా ఇల్లు లేకపోతే అర్హులు. గ్రామీణ: SECC ప్రకారం నివాసం లేనివారు అర్హులు. మరింత సమాచారం: [PMAY Website](https://pmaymis.gov.in/)"
+  },
+  {
+    "title": "Sukanya Samriddhi Yojana",
+    "tags": ["girl", "child", "saving", "education"],
+    "description": "A savings scheme for girl children offering high interest rates and tax benefits under 80C of Income Tax Act. Eligibility: Parents of girl children below 10 years can open an account. More Info: [Sukanya Samriddhi Website](https://www.indiapost.gov.in)"
+  },
+  {
+    "title": "सुकन्या समृद्धि योजना",
+    "tags": ["बेटी", "बचत", "शिक्षा", "सुकन्या"],
+    "description": "बेटियों के लिए विशेष बचत योजना जो उच्च ब्याज दर और टैक्स लाभ प्रदान करती है। पात्रता: 10 वर्ष से कम आयु की बेटियों के माता-पिता खाता खोल सकते हैं। अधिक जानकारी: [Sukanya Samriddhi Website](https://www.indiapost.gov.in)"
+  },
+  {
+    "title": "e-Shram Yojana",
+    "tags": ["unorganised", "worker", "labour", "eshram"],
+    "description": "A national database for unorganised workers to provide them with social security benefits. Eligibility: Unorganised workers aged between 16-59 years not a member of EPFO/ESIC or government pension schemes. More Info: [e-Shram Website](https://eshram.gov.in)"
+  },
+  {
+    "title": "ई-श्रम योजना",
+    "tags": ["असंगठित", "श्रमिक", "मजदूर", "ईश्रम"],
+    "description": "असंगठित क्षेत्र के श्रमिकों के लिए राष्ट्रीय डेटाबेस, जिससे उन्हें सामाजिक सुरक्षा योजनाओं का लाभ मिल सके। पात्रता: 16 से 59 वर्ष की उम्र के असंगठित श्रमिक जो EPFO/ESIC या सरकारी पेंशन योजनाओं के सदस्य नहीं हैं। अधिक जानकारी: [e-Shram Website](https://eshram.gov.in)"
+  }
+]
