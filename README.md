@@ -99,12 +99,8 @@
   <li><strong>🧪 Rahul Kumar</strong> – Testing, Bug Fixing, Performance</li>
 </ul>
 
-<h2>📬 Contact</h2>
-<p>
-  For questions or collaboration, reach out at: <br>
-  <a href="linkedin.com/in/himanshu-singh-405230253">LINKEDIN</a>
-</p>
+
 
 <hr>
 
-<p align="center">Made with ❤️ by Team BYTEIT for the rural empowerment of India 🇮🇳</p>
+<p align="center">Made with ❤️ by Team BYTEIT for the rural empowerment of India </p>
