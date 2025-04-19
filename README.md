@@ -2,8 +2,9 @@
 <h3 align="center">A Voice & Text-based Assistant for Rural India</h3>
 <p align="center">
   <strong>Hackathon:</strong> HACKDUCS 2025<br>
+  <strong>Team Name:</strong> BYTEIT<br>
   <strong>Team Leader:</strong> Himanshu Singh<br>
-  <strong>Team Members:</strong> Prince Sharma, Prashant Kumar, Rahul Kumare
+  <strong>Team Members:</strong> Prince Sharma, Prashant Kumar, Rahul Kumar
 </p>
 
 <hr>
@@ -49,10 +50,10 @@
 
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/your-repo-name.git</code></pre>
+    <pre><code>git clone https://github.com/Himanshusingh2301/chatbot.git</code></pre>
   </li>
   <li>Navigate to the project folder:
-    <pre><code>cd your-repo-name</code></pre>
+    <pre><code>cd chatbot</code></pre>
   </li>
   <li>Install dependencies:
     <pre><code>npm install</code></pre>
@@ -90,20 +91,20 @@
   <li>🧾 Eligibility wizard for step-by-step guidance</li>
 </ul>
 
-<h2>🧑‍💻 Team HACKDUCS</h2>
+<h2>🧑‍💻 Team BYTEIT</h2>
 <ul>
   <li><strong>👨‍💼 Himanshu Singh</strong> – Team Leader, AI Logic, React Integration</li>
   <li><strong>👨‍💻 Prince Sharma</strong> – UI/UX, Multilingual Design</li>
   <li><strong>👨‍🔧 Prashant Kumar</strong> – Data & Scheme Structuring</li>
-  <li><strong>🧪 Rahul Kumare</strong> – Testing, Bug Fixing, Performance</li>
+  <li><strong>🧪 Rahul Kumar</strong> – Testing, Bug Fixing, Performance</li>
 </ul>
 
 <h2>📬 Contact</h2>
 <p>
   For questions or collaboration, reach out at: <br>
-  <a href="mailto:himanshu.hackducs@domain.com">himanshu.hackducs@domain.com</a>
+  <a href="linkedin.com/in/himanshu-singh-405230253">LINKEDIN</a>
 </p>
 
 <hr>
 
-<p align="center">Made with ❤️ by Team HACKDUCS for the rural empowerment of India 🇮🇳</p>
+<p align="center">Made with ❤️ by Team BYTEIT for the rural empowerment of India 🇮🇳</p>
